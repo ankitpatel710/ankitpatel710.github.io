@@ -40,8 +40,9 @@ h1 {
 }
 
 h2 {
+	text-transform: uppercase;
   font-size: 3.5rem;
-  color: #343a40;
+
 }
 
 h3 {
