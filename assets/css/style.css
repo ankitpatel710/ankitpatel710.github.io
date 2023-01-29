@@ -391,10 +391,10 @@ section {
 .facts .count-box span {
   font-size: 48px;
   line-height: 40px;
-  display: block;
+  display: inline-block;
   font-weight: 700;
   color: #2e120f;
-  margin-left: 60px;
+  margin-left: 15px;
 }
 
 .facts .count-box p {
@@ -533,6 +533,16 @@ section {
   border-radius: 50px;
   padding: 2px 15px;
 }
+
+.portfolio h5 {
+  font-size: 14px;
+  margin-bottom: 10px;
+  background: #e1d3d2;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+}
+
 
 .portfolio #portfolio-flters li {
   cursor: pointer;
