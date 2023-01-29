@@ -391,7 +391,7 @@ section {
 .facts .count-box span {
   font-size: 48px;
   line-height: 40px;
-  display: inline-block;
+  display: inline;
   font-weight: 700;
   color: #2e120f;
   margin-left: 15px;
